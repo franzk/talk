@@ -1,6 +1,6 @@
 <template>
   <div class="listen">
-    <h1>Talk !!</h1>
+    <h1>Talk to me !!</h1>
 
     <p v-if="!onAir">Press GO and talk</p>
     <p v-else>ON AIR !!</p>
